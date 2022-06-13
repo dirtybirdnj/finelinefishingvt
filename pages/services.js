@@ -29,15 +29,14 @@ export default function Projects() {
               />
             ))}
           </div>
-
         </div>
 
         <Image
-              src="/static/images/laker-group-crop.jpg"
-              alt="Group of Lake Trout"
-              width="2028"
-              height="1057"
-            />
+          src="/static/images/laker-group-crop.jpg"
+          alt="Group of Lake Trout"
+          width="2028"
+          height="1057"
+        />
       </div>
     </>
   )

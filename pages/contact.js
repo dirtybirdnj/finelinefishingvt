@@ -20,7 +20,8 @@ export default function Contact() {
             Contact
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Contact us today to schedule your next trip. Availability is filling up fast don&apos;t delay, you might miss the hookset!
+            Contact us today to schedule your next trip. Availability is filling up fast don&apos;t
+            delay, you might miss the hookset!
           </p>
         </div>
       </div>
