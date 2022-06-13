@@ -13,7 +13,7 @@ const projectsData = [
     to the desired date and press "Go". No more worrying about lost keys or
     forgotten headphones with this simple yet affordable solution.`,
     imgSrc: '/static/images/facebook-pics/kid-smiling.jpeg',
-    href: '/blog/the-time-machine',
+    href: '/trolling',
   },
   {
     title: 'Jigging and River Trips',
@@ -21,7 +21,7 @@ const projectsData = [
     to the desired date and press "Go". No more worrying about lost keys or
     forgotten headphones with this simple yet affordable solution.`,
     imgSrc: '/static/images/facebook-pics/laker-smirk.jpeg',
-    href: '/blog/the-time-machine',
+    href: '/jigging',
   },
   {
     title: 'Ice Fishing',
@@ -29,7 +29,7 @@ const projectsData = [
     to the desired date and press "Go". No more worrying about lost keys or
     forgotten headphones with this simple yet affordable solution.`,
     imgSrc: '/static/images/facebook-pics/ice-lakers.jpeg',
-    href: '/blog/the-time-machine',
+    href: '/ice-fishing',
   }
 ]
 
